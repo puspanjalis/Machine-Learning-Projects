@@ -1,2 +1,2 @@
-# Natural-Language-Processing-Projects
-This repository contains my NLP projects 
+# Macine-Learning-Projects
+This repository contains my machine learning projects 
